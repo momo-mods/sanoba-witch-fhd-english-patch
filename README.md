@@ -1,4 +1,7 @@
 # Sanoba Witch FHD English Patch
+
+![Sanoba Witch cover](images/cover.jpg)
+
 Patches the FHD version of Sabbat of the Witch with English text and UI.
 
 ## Features 

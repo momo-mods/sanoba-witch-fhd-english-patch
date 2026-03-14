@@ -11,7 +11,7 @@ Patches the FHD version of Sabbat of the Witch with English text and UI.
 
 ## How to Install
 ### Auto Installer
-1. Download and run sw_en_patcher.exe
+1. Download and run `sw_en_patcher.exe`
 2. Confirm the detected `sanoba witch` game folder or browse to it manually
 3. Click `Install`
 
